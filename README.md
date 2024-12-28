@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently pursuing my degree with a strong focus on Machine Learning and Data Science. As a fresher, I have developed a solid foundation in data analysis, statistical modeling, and machine learning through academic coursework and hands-on projects.I am eager to apply my <br>knowledge and passion for AI to solve real-world problems and contribute to a forward-thinking team. <br><br><br>🔭 I’m currently working on BorderGuard: AI-Powered System for Military Camp Security <br>👯 I’m looking to collaborate on IoT Projects<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning Full-Stack Development on Django<br>
+ I am currently pursuing my degree with a strong focus on Machine Learning and Data Science. As a fresher, I have developed a solid foundation in data analysis, statistical modeling, and machine learning through academic coursework and hands-on projects.I am eager to apply my knowledge and passion for AI to solve real-world problems and contribute to a forward-thinking team. <br><br><br>🔭 I’m currently working on BorderGuard: AI-Powered System for Military Camp Security <br>👯 I’m looking to collaborate on IoT Projects<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning Full-Stack Development on Django<br>
 
 
 ## 🌐 Socials:
